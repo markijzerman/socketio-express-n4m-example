@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "sending sensordata over Socketio",
   "dependencies": {
-    "express": "4.9.7",
+    "express": "^4.16.4",
     "http": "0.0.0",
     "socket.io": "1.1.0",
     "socket.io-client": "1.1.0"
